@@ -1,4 +1,4 @@
-package com.swapnil.controller;
+package com.suryansh.controller;
 
 
 import com.fasterxml.jackson.databind.JsonNode;

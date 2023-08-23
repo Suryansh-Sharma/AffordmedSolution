@@ -1,4 +1,4 @@
-package com.swapnil.exception;
+package com.suryansh.exception;
 
 public class SpringCustomException {
 }
