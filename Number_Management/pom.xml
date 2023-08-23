@@ -8,10 +8,10 @@
 		<version>3.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.swapnil</groupId>
+	<groupId>com.suryansh</groupId>
 	<artifactId>Suryansh_Affordmed</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Swapnil_Affordmed</name>
+	<name>Suryansh_Affordmed</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
